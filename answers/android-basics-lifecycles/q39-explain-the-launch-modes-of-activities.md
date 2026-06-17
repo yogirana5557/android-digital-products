@@ -15,4 +15,4 @@ Launch modes define how a new instance of an Activity is associated with the cur
 ---
 *This is a free sample answer from the **Android Interview Question Bank**. Access all 300+ questions, detailed code examples, and architectural system designs in the premium PDF handbook.*
 
-[📥 Download the Full PDF eBook](https://gum.co/android-interview-question-bank)
+[📥 Download the Full PDF eBook](https://yogirana.gumroad.com/l/ljzae)

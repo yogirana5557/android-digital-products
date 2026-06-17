@@ -14,4 +14,4 @@ Clean Architecture structures code into circular layers where dependencies point
 ---
 *This is a free sample answer from the **Android Interview Question Bank**. Access all 300+ questions, detailed code examples, and architectural system designs in the premium PDF handbook.*
 
-[📥 Download the Full PDF eBook](https://gum.co/android-interview-question-bank)
+[📥 Download the Full PDF eBook](https://yogirana.gumroad.com/l/ljzae)

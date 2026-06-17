@@ -20,7 +20,7 @@ While this repository provides the complete list of 300 questions and **30 detai
 > * **Complete 300 Answers**: In-depth explanations with real-world Kotlin/Java code blocks.
 > * **No Noise**: Ad-free, print-ready, and searchable.
 >
-> [👉 **Get the PDF eBook on Gumroad**](https://gum.co/android-interview-question-bank) *(or download via landing page)*
+> [👉 **Get the PDF eBook on Gumroad**](https://yogirana.gumroad.com/l/ljzae) *(or download via landing page)*
 
 ---
 

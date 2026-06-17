@@ -12,4 +12,4 @@ Dependency Injection is a design pattern where an object's dependencies are prov
 ---
 *This is a free sample answer from the **Android Interview Question Bank**. Access all 300+ questions, detailed code examples, and architectural system designs in the premium PDF handbook.*
 
-[📥 Download the Full PDF eBook](https://gum.co/android-interview-question-bank)
+[📥 Download the Full PDF eBook](https://yogirana.gumroad.com/l/ljzae)
