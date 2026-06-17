@@ -42,12 +42,26 @@ Stop debugging declarative UI glitches. Access copy-pasteable Kotlin code blocks
 * [👉 **Get the PDF eBook on Gumroad (₹299)**](https://yogirana.gumroad.com/l/sriav) *(Includes print-ready, ad-free PDF with visual mockups and lifetime updates)*
 * [📖 **Browse 2 Free Sample Recipes**](./jetpack-compose-cookbook/) *(Read full blueprints, design previews, and code analysis right here on GitHub)*
 
+### 3. Android System Design & Architecture Playbook
+
+A Senior & Lead Engineer's guide to building scalable, offline-first multi-module apps with high-performance concurrency, interactive flowcharts, and hardware keystore security.
+
+Access production-grade Kotlin blueprints and architectural deep dives covering:
+* **Multi-Module & Gradle**: Centralized dependency management via Version Catalogs, composite precompiled convention plugins, and unidirectional API/implementation module boundaries.
+* **Data Layers & Offline Sync**: Network-Bound Resource database flows, Room mutation queues with WorkManager exponential backoffs, and Paging 3 RemoteMediator caching.
+* **Networking & Concurrency**: OAuth2 token refresh authenticators, WebSocket event callbackFlows, and application-scoped SupervisorJob lifecycles.
+* **Mobile Hardening & Security**: SSL certificate pinning configurations, Room database SQLCipher encryption, and Keystore-backed Biometric CryptoObject authentication.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Playbook on Gumroad (₹599)**](https://yogirana.gumroad.com/l/nnxopw) *(Includes print-ready, ad-free PDF with interactive sequence flowcharts and lifetime updates)*
+* [📖 **Browse 2 Free Sample Chapters**](./android-system-design-playbook/) *(Read full blueprints, interactive sequence flowcharts, and under-the-hood code analysis right here on GitHub)*
+
 ---
 
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks:
-1. **Android System Design & Architecture**: Designing scalable, offline-first mobile apps from scratch.
+1. **Jetpack Compose Advanced Canvas**: Creating custom high-performance drawing engines, charts, and interactive canvas components.
 
 *Follow this repository or watch releases to be notified when these products go live!*
 
