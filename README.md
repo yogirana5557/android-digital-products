@@ -58,6 +58,22 @@ Access production-grade Kotlin blueprints and architectural deep dives covering:
 
 ---
 
+### 4. Android Performance Optimization & Profiling Playbook
+
+A Senior & Staff Engineer's guide to building zero-lag apps, diagnosing system bottlenecks, and optimizing resource limits in production.
+
+Access production-grade Kotlin blueprints and performance profiling strategies covering:
+* **Memory Optimization**: Memory allocation tracking, custom thread-safe object pooling implementations, manual heap dump analysis (GC roots, path to GC root), and hybrid LRU/SoftReference cache structures with ReferenceQueues.
+* **CPU, Concurrency & Rendering**: Thread lock contention diagnostics, priority inversion prevention using atomic CAS operations, Choreographer frame rendering analysis, App Startup initializer dependency configurations, and Macrobenchmark tests.
+* **Jetpack Compose Performance**: Compose compiler stability reports (`stability.txt`) resolution, `@Stable` / `@Immutable` class configurations, layout phase optimizations (deferring state reads via graphicsLayer lambdas), and Lazy List recycling optimizations (derivedStateOf buffering, key & contentType caching).
+* **Dex & Bundle Hardening**: R8 tree-shaking and aggressive method inlining configs, stripping redundant Kotlin metadata annotations, automated release Baseline Profile generations, and classes.dex layout sorting.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/perfplay) *(Includes print-ready, ad-free PDF with performance traces and lifetime updates)*
+* [📖 **Browse Free Sample Chapter**](./android-performance-playbook/) *(Read full stability reports, code blueprints, and under-the-hood analysis right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks:
