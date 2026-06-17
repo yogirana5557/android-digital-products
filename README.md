@@ -69,7 +69,7 @@ Access production-grade Kotlin blueprints and performance profiling strategies c
 * **Dex & Bundle Hardening**: R8 tree-shaking and aggressive method inlining configs, stripping redundant Kotlin metadata annotations, automated release Baseline Profile generations, and classes.dex layout sorting.
 
 #### 🚀 Instant Action:
-* [👉 **Get the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/perfplay) *(Includes print-ready, ad-free PDF with performance traces and lifetime updates)*
+* [👉 **Get the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/fgscvl) *(Includes print-ready, ad-free PDF with performance traces and lifetime updates)*
 * [📖 **Browse Free Sample Chapter**](./android-performance-playbook/) *(Read full stability reports, code blueprints, and under-the-hood analysis right here on GitHub)*
 
 ---

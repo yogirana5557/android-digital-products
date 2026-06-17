@@ -8,7 +8,7 @@ This handbook is designed for senior and lead Android software engineers who wan
 
 ## 🛍️ Get the Full Playbook (₹699 / ₹799)
 If you find this checklist and sample helpful, you can purchase the complete compiled, ad-free PDF eBook containing all 12 chapters, diagrams, and blueprints:
-* [👉 **Buy the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/perfplay) *(Includes print-ready PDF, vector flowcharts, and lifetime updates)*
+* [👉 **Buy the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/fgscvl) *(Includes print-ready PDF, vector flowcharts, and lifetime updates)*
 
 ---
 
@@ -98,4 +98,4 @@ class StableWrapper<T>(val value: T) {
 
 ## ⚡ Get the Full Playbook
 Access all **12 advanced performance chapters** complete with diagrams, profiling steps, and blueprints:
-* [👉 **Buy the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/perfplay)
+* [👉 **Buy the PDF Playbook on Gumroad (₹699 Launch Deal)**](https://yogirana.gumroad.com/l/fgscvl)
