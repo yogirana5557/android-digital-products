@@ -74,6 +74,22 @@ Access production-grade Kotlin blueprints and performance profiling strategies c
 
 ---
 
+### 5. Android Security, Hardening & Reverse Engineering Handbook
+
+A Senior & Staff Engineer's guide to building secure, tamper-proof apps, encrypting local storage, preventing dynamic hooks, and server attestation.
+
+Access production-grade Kotlin blueprints and mobile security strategies covering:
+* **Reverse Engineering & Cryptography**: Decompilation static analysis, custom R8 dictionary obfuscations, hardware-backed Keystore configurations (TEE & StrongBox), and Biometric CryptoObject authentication.
+* **Secure Storage & Network Isolation**: Room SQLite encryption with SQLCipher, EncryptedSharedPreferences token storage, and advanced OkHttp SSL pinning.
+* **Runtime Protection & Dynamic Defenses**: Multi-layered root & emulator detections (Java & Native NDK), app signature self-verification, and Frida instrumentation map scans.
+* **Device Integrity & Server-Side Attestation**: Google Play Integrity API requests, server-side Attestation JWS verdict decryption, and nonce-based anti-replay protection.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Playbook on Gumroad (₹799 Launch Deal)**](https://yogirana.gumroad.com/l/lspvc) *(Includes print-ready, ad-free PDF with security diagrams and lifetime updates)*
+* [📖 **Browse Free Sample Chapter**](./android-security-playbook/) *(Read full Frida detection guides, code blueprints, and under-the-hood analysis right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks:
