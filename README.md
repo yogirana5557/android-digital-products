@@ -90,6 +90,22 @@ Access production-grade Kotlin blueprints and mobile security strategies coverin
 
 ---
 
+### 6. Google Leadership & Googleyness Interview Guide
+
+A Senior & Staff Engineer's guide (L4 – L6+) to mastering the Googleyness & Leadership interview round.
+
+Access production-grade preparation resources and behavioral strategies covering:
+* **Googleyness & Leadership Dimensions**: Understanding scorecard metrics, ambiguity comfort, decision-making under uncertainty, and the Hiring Committee reality.
+* **The STAR Framework**: Key structure, timing guidelines, and details on 4 major anti-patterns.
+* **Core Google Values**: 8 core values deep dives (Ambiguity, Conflict, Influence, Failure, Data-Driven, Mentorship, Bias to Action, Cross-Functional) with model STAR stories.
+* **50-Question Bank**: Comprehensive question list covering leadership, dynamic conflict, technical standards, and people development.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Guide on Gumroad (₹1,499)**](https://yogirana.gumroad.com/l/golead) *(Includes print-ready, high-fidelity PDF with story templates and scorecard advice)*
+* [📖 **Browse Free Sample Chapter**](./google-leadership-guide/) *(Read full STAR framework guides, anti-patterns, and study checklists right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks:
