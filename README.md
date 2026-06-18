@@ -90,26 +90,25 @@ Access production-grade Kotlin blueprints and mobile security strategies coverin
 
 ---
 
-### 6. Google Leadership & Googleyness Interview Guide
+### 6. Jetpack Compose Advanced Canvas & Custom UI Blueprint
 
-A Senior & Staff Engineer's guide (L4 – L6+) to mastering the Googleyness & Leadership interview round.
+A Senior & Lead Engineer's guide to building high-performance custom drawing engines, custom layouts, gestures, and animations at 120 FPS in modern Android apps.
 
-Access production-grade preparation resources and behavioral strategies covering:
-* **Googleyness & Leadership Dimensions**: Understanding scorecard metrics, ambiguity comfort, decision-making under uncertainty, and the Hiring Committee reality.
-* **The STAR Framework**: Key structure, timing guidelines, and details on 4 major anti-patterns.
-* **Core Google Values**: 8 core values deep dives (Ambiguity, Conflict, Influence, Failure, Data-Driven, Mentorship, Bias to Action, Cross-Functional) with model STAR stories.
-* **50-Question Bank**: Comprehensive question list covering leadership, dynamic conflict, technical standards, and people development.
+Access production-grade Kotlin blueprints and custom Canvas strategies covering:
+* **Geometry & Foundations**: Vector path operations, cubic Bezier curve scaling, radial/linear/sweep gradients, BlendModes, and custom text drawing.
+* **Layouts & Measure Phase**: Custom measure policies (diagonal layout), `SubcomposeLayout` (staggered waterfall column heights), and custom layout modifiers (aspect-ratio locks).
+* **Gestures & Custom Touch**: Coroutine gesture detection, pointer input routing passes, touch velocity tracking (joystick drag), Cartesian-to-polar coordinates (volume knobs), and parent nested scroll connections.
+* **Canvas Performance & Animations**: Shape morphing transitions, graphics layer hardware cache (`graphicsLayer`), GC thrashing allocation avoidance, and recomposition-free animations via draw lambdas.
 
 #### 🚀 Instant Action:
-* [👉 **Get the PDF Guide on Gumroad (₹1,499)**](https://yogirana.gumroad.com/l/golead) *(Includes print-ready, high-fidelity PDF with story templates and scorecard advice)*
-* [📖 **Browse Free Sample Chapter**](./google-leadership-guide/) *(Read full STAR framework guides, anti-patterns, and study checklists right here on GitHub)*
+* [👉 **Get the PDF Handbook on Gumroad (₹1,499)**](https://yogirana.gumroad.com/l/arjjrq) *(Includes print-ready, ad-free PDF with geometry diagrams, tokens sheet, and lifetime updates)*
+* [📖 **Browse Free Sample Chapter**](./jetpack-compose-canvas-blueprint/) *(Read recomposition-free animation blueprints, code listings, and study checklists right here on GitHub)*
 
 ---
 
 ## ⚡ Upcoming Products (Coming Soon)
 
-We are actively writing and coding our next premium developer handbooks:
-1. **Jetpack Compose Advanced Canvas**: Creating custom high-performance drawing engines, charts, and interactive canvas components.
+We are actively writing and coding our next premium developer handbooks.
 
 *Follow this repository or watch releases to be notified when these products go live!*
 
