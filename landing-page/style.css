@@ -488,6 +488,26 @@ header {
     margin-bottom: 16px;
 }
 
+.author-portfolio-link {
+    display: inline-flex;
+    align-items: center;
+    color: var(--accent-light);
+    text-decoration: none;
+    font-family: var(--font-display);
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 8px;
+    transition: all 0.2s ease;
+}
+
+.author-portfolio-link:hover {
+    color: var(--primary-light);
+}
+
+.author-portfolio-link:hover svg {
+    transform: translateX(4px);
+}
+
 /* Footer */
 footer {
     border-top: 1px solid var(--border-color);
