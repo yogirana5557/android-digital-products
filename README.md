@@ -106,6 +106,22 @@ Access production-grade Kotlin blueprints and custom Canvas strategies covering:
 
 ---
 
+### 7. Modern Kotlin & Concurrency: Ultimate Interview Prep Blueprint
+
+A Senior & Lead Engineer's guide to cracking the concurrency loop, containing 55 deep-dive Q&As, structured concurrency exception trees, custom DSL development, and testing schedulers.
+
+Access production-grade Kotlin blueprints and core concurrency strategies covering:
+* **Coroutines Fundamentals & Internals**: Continuation passing style state machines, dispatcher thread pools, supervisor boundaries, and active cancellation loop checks.
+* **Kotlin Flow & Cold Streams**: StateFlow value preservation, SharedFlow buffer capacities, reactive pipelines, and backpressure handling.
+* **Advanced Kotlin Features**: Sealed type hierarchies, custom property delegates, inline parameter bytecode optimizations, and null-safety contracts.
+* **Testing & Advanced Concurrency**: TestCoroutineScheduler virtual time control, Channels vs Flows buffering, Mutex non-blocking synchronization locks, and rate-limiting token bucket implementations.
+
+#### 🚀 Instant Action:
+* [👉 **Get the Playbook on Gumroad (₹2,499 / ₹3,999)**](https://yogirana.gumroad.com/l/czrmy) *(Includes print-ready PDFs, 81-Page Master Playbook, and the full 2-Hour Audio companion)*
+* [📖 **Browse Free Sample Chapter**](./modern-kotlin-concurrency-blueprint/) *(Read the complete CPS state machine analysis, JVM-level coroutine threads, and code blueprints right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks.
