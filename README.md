@@ -138,6 +138,23 @@ Access production-grade Kotlin blueprints and core Compose strategies covering:
 
 ---
 
+### 9. Kotlin Multiplatform & Compose Multiplatform Cookbook
+
+A Senior & Lead Engineer's guide to building production-ready cross-platform apps, containing 10 copy-pasteable recipes, Gradle version catalogs, shared Ktor networking, local Room database caching, Compose Multiplatform UI scaling, Koin DI, Voyager navigation, and Swift-friendly thread observation.
+
+Access production-grade cross-platform blueprints and architecture checklists covering:
+* **Gradle & Project Configuration**: KMP monorepo project structure, centralized Version Catalogs (`libs.versions.toml`), and targets setup.
+* **Networking & DI**: Shared Ktor HTTP client with Content Negotiation, JSON serialization, and dependency injection via Koin.
+* **UI & Navigation**: Compose Multiplatform shared layouts, resource management, and state hoisting stack navigation via Voyager.
+* **Data Caching & Platform Binding**: Local database persistence with Room Multiplatform, key-value caching with MultiplatformSettings, and platform-specific feature bindings via expect/actual.
+* **Concurrency & iOS Setup**: Multiplatform coroutine threading, Swift-friendly Flow observation, Xcode SPM/CocoaPods integration, and framework signing.
+
+#### 🚀 Instant Action:
+* [👉 **Get the Playbook on Gumroad (₹199 / ₹299)**](https://yogirana.gumroad.com/l/oeiqh) *(Includes print-ready PDFs, 38-Page Master Playbook, 10 individual topic handbooks, and KMP Starter Project code template)*
+* [📖 **Browse Free Sample Chapter**](./kotlin-multiplatform-cookbook/) *(Read Recipe 1: KMP Setup & Gradle version catalog configurations right here on GitHub)*
+
+---
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks.
