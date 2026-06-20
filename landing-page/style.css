@@ -372,6 +372,10 @@ header {
     background-image: url('cover-compose-canvas.png');
 }
 
+.cover-kotlin-concurrency {
+    background-image: url('cover-kotlin-concurrency.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;
