@@ -385,6 +385,10 @@ header {
     background-image: url('cover-kmp-cookbook.png');
 }
 
+.cover-kmp-cheatsheet {
+    background-image: url('cover-kmp-cheatsheet.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;

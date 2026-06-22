@@ -155,6 +155,22 @@ Access production-grade cross-platform blueprints and architecture checklists co
 
 ---
 
+### 10. Kotlin Multiplatform & Concurrency: Developer Cheat Sheet
+
+A high-performance quick-reference card detailing Kotlin 2.4.0 centralized version catalog configurations, target architectures, Ktor shared engines, Koin injection patterns, Swift coroutines observers, and thread pool dispatch loops.
+
+Access copy-pasteable Kotlin code blocks and platform integration setups covering:
+* **Centralized Build Setup**: Centralized Version Catalogs (`libs.versions.toml`), target frameworks configs, and common/platform source sets.
+* **Shared Clients & DI**: Ktor HttpClient shared engines with Content Negotiation, platform-specific client engines (OkHttp & Darwin), and Koin DI helper architectures.
+* **Concurrency & Platform Observers**: Swift-friendly coroutine flow observers, thread-pool allocation rules (Default vs IO), and SupervisorJob exception boundaries.
+
+#### 🚀 Instant Action:
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/cddkph) *(Includes print-ready, high-resolution 4-page PDF card for desktop reference)*
+* [📖 **Browse Reference Guide**](./kmp-concurrency-cheatsheet/) *(View the full cheat sheet code blocks right here on GitHub)*
+
+---
+
+
 ## ⚡ Upcoming Products (Coming Soon)
 
 We are actively writing and coding our next premium developer handbooks.
