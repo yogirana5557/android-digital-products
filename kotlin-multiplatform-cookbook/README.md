@@ -57,14 +57,15 @@ The directory layout of a KMP monorepo:
 #### Version Catalog configuration (`gradle/libs.versions.toml`)
 ```toml
 [versions]
-kotlin = "2.0.0"
+kotlin = "2.4.0"
 androidGradlePlugin = "8.4.1"
 androidxActivity = "1.9.0"
-composeMultiplatform = "1.6.11"
-ktor = "2.3.11"
-koin = "3.5.6"
-room = "2.7.0-alpha04"
+composeMultiplatform = "1.11.1"
+ktor = "3.5.0"
+koin = "4.2.2"
+room = "2.8.4"
 sqlite = "2.5.0-alpha04"
+ksp = "2.4.0-1.0.30"
 
 [libraries]
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidxActivity" }
@@ -80,8 +81,9 @@ sqlite-bundled = { module = "androidx.sqlite:sqlite-bundled", version.ref = "sql
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 android-library = { id = "com.android.library", version.ref = "androidGradlePlugin" }
 compose-multiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
+kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 room = { id = "androidx.room", version.ref = "room" }
-ksp = { id = "com.google.devtools.ksp", version = "2.0.0-1.0.21" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 ```
 
 #### Shared module configuration (`shared/build.gradle.kts`)
@@ -90,6 +92,7 @@ plugins {
     alias(libs.plugins.kotlin.multiplatform)
     alias(libs.plugins.android.library)
     alias(libs.plugins.compose.multiplatform)
+    alias(libs.plugins.kotlin.compose) // Kotlin Compose compiler plugin
 }
 
 kotlin {
