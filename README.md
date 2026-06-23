@@ -192,7 +192,7 @@ Access copy-pasteable Kotlin code blocks and performance optimization setups cov
 * **List Recycling**: Key-shift protection and heterogeneous list matching (`contentType`) in LazyColumns.
 
 #### 🚀 Instant Action:
-* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/compose-performance) *(Includes print-ready, high-resolution 3-page PDF card for desktop reference)*
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/ftupd) *(Includes print-ready, high-resolution 3-page PDF card for desktop reference)*
 * [📖 **Browse Reference Guide**](./compose-performance-cheatsheet/) *(View the full cheat sheet code blocks right here on GitHub)*
 
 ---

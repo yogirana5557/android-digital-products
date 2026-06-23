@@ -9,7 +9,7 @@ This cheat sheet is a high-performance reference card detailing recomposition-by
 ## 🛍️ Get the PDF Edition (Free / $0+)
 
 Get the print-ready, high-resolution 3-page PDF card to keep on your desktop or reference during development:
-* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/compose-performance) *(Use this link to download the PDF, enter 0 to get it free!)*
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/ftupd) *(Use this link to download the PDF, enter 0 to get it free!)*
 
 ---
 
