@@ -9,7 +9,7 @@ This checklist is a high-performance 12-page reference card detailing multi-modu
 ## 🛍️ Get the PDF Edition (Free / $0+)
 
 Get the print-ready, high-resolution 12-page PDF handbook to keep on your desktop or reference during architecture reviews:
-* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/system-design-checklist) *(Use this link to download the PDF, enter 0 to get it free!)*
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/ohezxb) *(Use this link to download the PDF, enter 0 to get it free!)*
 
 ---
 

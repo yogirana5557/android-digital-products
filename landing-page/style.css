@@ -310,8 +310,8 @@ header {
 }
 
 .book {
-    width: 180px;
-    height: 250px;
+    width: 210px;
+    height: 210px;
     position: relative;
     transform-style: preserve-3d;
     transform: rotateY(-15deg) rotateX(10deg);

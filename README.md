@@ -209,7 +209,7 @@ Access copy-pasteable Kotlin code blocks and system design checklists covering:
 * **Concurrency Boundaries**: Isolated execution contexts via SupervisorJobs, and thread-safe API request throttling.
 
 #### 🚀 Instant Action:
-* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/system-design-checklist) *(Includes print-ready, high-resolution 12-page PDF handbook)*
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/ohezxb) *(Includes print-ready, high-resolution 12-page PDF handbook)*
 * [📖 **Browse Reference Guide**](./android-system-design-checklist/) *(View the full checklist code blocks right here on GitHub)*
 
 ---
