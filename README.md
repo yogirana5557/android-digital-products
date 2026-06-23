@@ -181,6 +181,22 @@ Access copy-pasteable Kotlin code blocks and platform integration setups coverin
 
 ---
 
+### 11. Jetpack Compose Performance & Recomposition: Developer Cheat Sheet
+
+A high-performance reference card detailing recomposition-bypass modifiers, state read deferrals, stability optimizations, stability report configurations, and lazy list recycling patterns.
+
+Access copy-pasteable Kotlin code blocks and performance optimization setups covering:
+* **State Deferrals & Modifiers**: Bypassing recomposition using lambda modifiers (`offset`, `graphicsLayer`) to defer state reads directly to Layout and Draw phases.
+* **State Buffering**: Correctly implementing `derivedStateOf` for list scroll trackers and window bounds to buffer high-frequency state updates.
+* **Compiler Stability**: Configuring gradle metrics/reports (`stability.txt`), fixing unstable collections via `kotlinx-immutable` or wrapper classes.
+* **List Recycling**: Key-shift protection and heterogeneous list matching (`contentType`) in LazyColumns.
+
+#### 🚀 Instant Action:
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/compose-performance) *(Includes print-ready, high-resolution 3-page PDF card for desktop reference)*
+* [📖 **Browse Reference Guide**](./compose-performance-cheatsheet/) *(View the full cheat sheet code blocks right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
