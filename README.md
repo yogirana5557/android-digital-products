@@ -197,6 +197,23 @@ Access copy-pasteable Kotlin code blocks and performance optimization setups cov
 
 ---
 
+### 12. Android System Design & Architecture Checklist
+
+A comprehensive, 12-page reference checklist and codebase blueprint detailing monorepos, offline-first syncing pipelines, local database encryption, hardware biometrics, and coroutine execution boundaries.
+
+Access copy-pasteable Kotlin code blocks and system design checklists covering:
+* **Multi-Module Monorepo**: Version Catalog dependency maps (`libs.versions.toml`), build-logic convention plugins, feature module boundaries, and api vs implementation dependency rules.
+* **Offline-First Synchronization**: Single Source of Truth (SSOT) pattern, network-bound resources (NBR) with Room + Ktor, room mutation queues, WorkManager background sync execution, and exponential backoff retry criteria.
+* **Paginated Caching**: Loading pages dynamically via Paging 3 `RemoteMediator` directly into local cache.
+* **Modular DI & Hardening**: Koin features module scope containment, SQLCipher Room encryption, OkHttp SSL Pinning, and Trusted Execution Environment (TEE) Keystore keys.
+* **Concurrency Boundaries**: Isolated execution contexts via SupervisorJobs, and thread-safe API request throttling.
+
+#### 🚀 Instant Action:
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/system-design-checklist) *(Includes print-ready, high-resolution 12-page PDF handbook)*
+* [📖 **Browse Reference Guide**](./android-system-design-checklist/) *(View the full checklist code blocks right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 

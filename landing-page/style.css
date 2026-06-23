@@ -393,6 +393,10 @@ header {
     background-image: url('cover-compose-performance.png');
 }
 
+.cover-system-design-checklist {
+    background-image: url('cover-system-design-checklist.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;
