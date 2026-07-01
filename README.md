@@ -214,6 +214,23 @@ Access copy-pasteable Kotlin code blocks and system design checklists covering:
 
 ---
 
+### 13. Android On-Device AI: Gemini Nano & AI Edge SDK Playbook
+
+A Senior & Staff Engineer's guide to running local generative models, configuring hardware-backed NPUs, and building fallback architectures on Android.
+
+Access production-grade Kotlin blueprints and on-device AI strategies covering:
+* **Google AI Edge SDK & AICore Setup**: Gradle configurations, experimental API dependencies, and device testing beta track enrollment.
+* **On-Device Text Processing via ML Kit**: High-level summarization models and rewrite tone APIs.
+* **Custom AI Client**: Binding to the AICore system service, configuring generation parameters (temperature, token limits), passing system instructions, and streaming token responses via Kotlin Flow.
+* **Hybrid Fallback Architecture**: Designing repository abstractions to route requests between on-device NPU models (Gemini Nano) and remote cloud-based services (Gemini Pro) based on hardware capability.
+* **Memory & Performance Constraints**: Token budget guidelines, context window management, avoiding main-thread GC thrashing, and lifecycle binding.
+
+#### 🚀 Instant Action:
+* [👉 **Get the Playbook on Gumroad (₹249 / ₹499)**](https://yogirana.gumroad.com/l/android-ai-playbook) *(Includes print-ready, ad-free PDF guidebook and the Android Studio chat app starter code template)*
+* [📖 **Browse Free Sample Chapter**](./android-on-device-ai-playbook/) *(Read the complete client wrapper, fallback setup, and code blueprints right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
