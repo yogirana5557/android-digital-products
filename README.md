@@ -231,6 +231,24 @@ Access production-grade Kotlin blueprints and on-device AI strategies covering:
 
 ---
 
+### 14. Modern Android Screenshot Testing Playbook
+
+A Senior & Staff Engineer's guide to fast, JVM-based visual regression testing using Paparazzi, Roborazzi, and the official Compose HTML test engine.
+
+Access production-grade Kotlin blueprints and snapshot testing strategies covering:
+* **The JVM Testing Revolution**: Why teams are replacing flaky, slow emulator UI checks with 50ms local JVM rendering tasks.
+* **Paparazzi Deep Dive**: Configuring the Cash App plugin, LayoutLib bindings, custom theme resolutions, and snapshot record parameters.
+* **Roborazzi Deep Dive**: Setting up Robolectric graphic modes, simulating click interactions, capturing state transitions, and assertions.
+* **Google Compose Preview Screenshot Testing**: Custom experimental screenshot configurations and `@PreviewTest` mappings.
+* **GitHub Actions CI Automation**: Writing visual regression checking pipelines, caching gradle targets, and saving layout failure diff archives on PRs.
+* **Version & Asset Resolution**: Resolving K2 compiler plugin collisions, font pre-loads, and mocking remote Coil image loaders.
+
+#### 🚀 Instant Action:
+* [👉 **Get the Playbook on Gumroad (₹199 / ₹399)**](https://yogirana.gumroad.com/l/screenshot-testing-playbook) *(Includes print-ready, ad-free PDF guidebook and the Android Studio project with pre-configured gradle setups & GitHub Actions workflows)*
+* [📖 **Browse Free Sample Chapter**](./android-screenshot-testing-playbook/) *(Read full Junit test structures, layout configurations, and code blueprints right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
