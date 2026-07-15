@@ -1,6 +1,6 @@
-# Android Gradle Build Speed & Centralized build-logic Reference Card
+# Android Gradle Build Speed & Centralized build-logic Playbook
 
-Duplicated build configurations and unaligned dependency versions cause build slow-downs and configuration drift across modular projects. This reference card centralizes high-impact properties, composite `build-logic` setups, and KSP compiler switches.
+Duplicated build configurations and unaligned dependency versions cause build slow-downs and configuration drift across modular projects. This playbook compiles production-grade setups to optimize compilation times and centralize build architecture using precompiled Kotlin DSL convention plugins.
 
 ---
 
@@ -44,10 +44,10 @@ android {
 
 ---
 
-## 📂 Download the Full Reference Card (Free PDF)
+## 📂 Download the Full Playbook (Free PDF)
 
-This setup is part of the **AndroidDev Suite** resources. If you want the complete, print-ready 4-page A4 vector reference card (which includes KSP compiler transitions, build diagnostics scans, and task avoidance guidelines), download the PDF below:
+This setup is part of the **AndroidDev Suite** resources. If you want the complete, print-ready 15-page A4 vector playbook (which includes KSP compiler transitions, build diagnostics scans, composite configurations, and task avoidance guidelines), download the PDF below:
 
-➡️ **[Download the Free Reference PDF on Gumroad](https://yogirana.gumroad.com/l/gradle-optimization-cheatsheet)**
+➡️ **[Download the Free Playbook on Gumroad](https://yogirana.gumroad.com/l/gradle-optimization-cheatsheet)**
 
 *The open-source code and sample configurations are free to browse on GitHub: [android-digital-products](https://github.com/yogirana5557/android-digital-products).*
