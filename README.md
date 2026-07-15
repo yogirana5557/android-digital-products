@@ -249,6 +249,22 @@ Access production-grade Kotlin blueprints and snapshot testing strategies coveri
 
 ---
 
+### 15. Android Gradle Build Speed & Centralized build-logic Cheat Sheet
+
+A high-performance quick-reference card detailing properties optimizations, precompiled Kotlin DSL convention plugins, and build speed checks.
+
+Access copy-pasteable configuration files and Gradle blueprints covering:
+* **High-Impact Performance Properties**: Parallel module compilation, build cache enablement, G1 Garbage Collector configs, and JVM memory tuning.
+* **Precompiled Kotlin DSL Convention Plugins**: Structuring a composite build-logic module to centralize build logic and prevent configuration drift.
+* **KAPT to KSP Migration Checklist**: Replacing stub-generation kapt plugins with Kotlin Symbol Processing (KSP) to speed up compile tasks.
+* **Build Speed Diagnostics**: Generating HTML build scans and profiling task avoidance.
+
+#### 🚀 Instant Action:
+* [👉 **Download the PDF on Gumroad (Free / $0+)**](https://yogirana.gumroad.com/l/gradle-optimization-cheatsheet) *(Includes print-ready, high-resolution 4-page PDF card for desktop reference)*
+* [📖 **Browse Reference Guide**](./android-gradle-optimization-cheatsheet/) *(View the full optimization code blocks right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
