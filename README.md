@@ -34,7 +34,7 @@ Stop wasting hours browsing outdated blog posts. Get a structured preparation ch
 * **System Design & Testing**: Multi-module architectures, offline-first syncs, Compose semantics testing.
 
 #### 🚀 Instant Action:
-* [👉 **Get the PDF eBook on Gumroad (₹199)**](https://yogirana.gumroad.com/l/ljzae) *(Includes print-ready, ad-free PDF with anti-piracy stamping and lifetime updates)*
+* [👉 **Get the PDF eBook on Gumroad (₹499)**](https://yogirana.gumroad.com/l/ljzae) *(Includes print-ready, ad-free PDF with anti-piracy stamping and lifetime updates)*
 * [📖 **Browse 30 Free Sample Answers**](./android-interview-question-bank-2026/) *(Read 1 Junior, 1 Mid, and 1 Senior detailed answer from every category right here on GitHub)*
 
 ---
@@ -50,7 +50,7 @@ Stop debugging declarative UI glitches. Access copy-pasteable Kotlin code blocks
 * **State & Performance**: Scroll-state derivedStateOf buffering, zoom/pan gesture modifiers, custom keys & content types.
 
 #### 🚀 Instant Action:
-* [👉 **Get the PDF eBook on Gumroad (₹299)**](https://yogirana.gumroad.com/l/sriav) *(Includes print-ready, ad-free PDF with visual mockups and lifetime updates)*
+* [👉 **Get the PDF eBook on Gumroad (₹399)**](https://yogirana.gumroad.com/l/sriav) *(Includes print-ready, ad-free PDF with visual mockups and lifetime updates)*
 * [📖 **Browse 2 Free Sample Recipes**](./jetpack-compose-cookbook/) *(Read full blueprints, design previews, and code analysis right here on GitHub)*
 
 ### 3. Android System Design & Architecture Playbook

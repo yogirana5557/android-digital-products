@@ -152,5 +152,5 @@ LazyColumn {
 ## 📚 Level Up Your Development:
 If you are looking for complete, step-by-step implementations, architectural sequence diagrams, and pre-configured template zip files, check out our premium guides:
 
-* [👉 **Jetpack Compose Cookbook (₹299)**](https://yogirana.gumroad.com/l/sriav) — 12 advanced, production-grade UI recipes: collapsing nested-scroll headers, staggered grids, spring-physics swipe actions, shimmers, and gestures.
+* [👉 **Jetpack Compose Cookbook (₹399)**](https://yogirana.gumroad.com/l/sriav) — 12 advanced, production-grade UI recipes: collapsing nested-scroll headers, staggered grids, spring-physics swipe actions, shimmers, and gestures.
 * [👉 **Advanced Canvas & Custom UI Masterclass (₹1,499)**](https://yogirana.gumroad.com/l/arjjrq) — 37-page print-ready handbook covering geometry path math, velocity tracker knobs, joysticks, subcompose layouts, and recomposition-free GPU drawing.
