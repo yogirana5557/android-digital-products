@@ -265,6 +265,22 @@ Access copy-pasteable configuration files and Gradle blueprints covering:
 
 ---
 
+### 16. Android & Compose Testing Playbook
+
+Stop shipping tests that only prove your code compiles. Get instant access to a senior-level guide to **unit, UI, and integration testing** for modern Android apps built with Kotlin Coroutines, Flow, and Jetpack Compose.
+
+Access 12 in-depth testing topics covering:
+* **Unit Testing Foundations**: JUnit5 parameterized tests, MockK relaxed mocks and slots, and testing Kotlin Flows & StateFlow with Turbine.
+* **Jetpack Compose UI Testing**: The semantics tree, custom testTag strategy, merging semantics nodes, gestures, and IdlingResources.
+* **Architecture & Integration Testing**: Turbine-driven ViewModel testing with fake repositories, Hilt @TestInstallIn modules, and Room in-memory database & migration testing.
+* **Test Strategy, CI & Reliability**: The Android test pyramid, diagnosing flaky tests via Clock and dispatcher injection, and sharded GitHub Actions test matrices.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Playbook on Gumroad (₹599)**](https://yogirana.gumroad.com/l/android-testing-playbook) *(Includes print-ready PDF and lifetime updates)*
+* [📖 **Browse Free Sample Chapter**](./android-testing-playbook/) *(Read the full Turbine + Fake Repository ViewModel testing chapter right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 

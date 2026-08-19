@@ -413,6 +413,10 @@ header {
     background-image: url('cover-bundle.png');
 }
 
+.cover-testing-playbook {
+    background-image: url('cover-testing-playbook.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;
