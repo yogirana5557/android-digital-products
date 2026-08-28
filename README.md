@@ -281,6 +281,22 @@ Access 12 in-depth testing topics covering:
 
 ---
 
+### 17. Jetpack Compose Adaptive UI & Foldables Playbook
+
+Stop stretching a phone layout wider and calling it tablet support. Get instant access to a senior-level guide to **adaptive UI and foldables** for modern Android apps built with Jetpack Compose, Material3 Adaptive, and Jetpack WindowManager.
+
+Access 12 in-depth adaptive UI topics covering:
+* **Foundations**: WindowSizeClass & breakpoints, Material3's canonical list-detail/supporting-pane/feed layouts, and slot-based single-screen composition instead of one layout per form factor.
+* **Foldables & Postures**: Detecting folds & hinges with Jetpack WindowManager, coordinate-space-aware layout avoidance around the hinge, and table-top & book posture handling.
+* **New Compose APIs**: Adaptive navigation with NavigationSuiteScaffold, the new MediaQuery-style environment-signal API, and CSS-inspired Grid & FlexBox layouts in Compose.
+* **Shipping It**: Desktop windowing & multi-window (including Activity Embedding), predictive back that respects pane state, and testing adaptive layouts against the exact Play Console large-screen checklist.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF Playbook on Gumroad (₹699)**](https://yogirana.gumroad.com/l/android-adaptive-ui-playbook) *(Includes print-ready PDF and lifetime updates)*
+* [📖 **Browse Free Sample Chapter**](./android-adaptive-ui-playbook/) *(Read the full WindowSizeClass & Breakpoints chapter right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 

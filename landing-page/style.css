@@ -417,6 +417,10 @@ header {
     background-image: url('cover-testing-playbook.png');
 }
 
+.cover-adaptive-ui-playbook {
+    background-image: url('cover-adaptive-ui-playbook.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;
