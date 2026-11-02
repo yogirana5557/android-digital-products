@@ -297,6 +297,24 @@ Access 12 in-depth adaptive UI topics covering:
 
 ---
 
+### 18. Android System Design Interview Question Bank (2026 Edition)
+
+Most "mobile system design" prep is generic enough to cover iOS and Android with the same shallow pass, or costs $30–$200+ for a course bundle. This is a Kotlin/Android-specific question bank: **30 real "design X" interview prompts** with worked answers, not bullet notes.
+
+Access 30 in-depth questions across 6 chapters:
+* **Offline-First & Data Sync Architecture**: offline-first note apps, conflict resolution, the single-source-of-truth repository pattern, background sync surviving Doze, and multi-device sync.
+* **Caching, Image Loading & Network-Bound Resources**: two-tier image caching, the network-bound resource pattern, disk+memory API response caching, cache invalidation, and paginated-feed pre-fetching.
+* **Real-Time & Streaming Systems**: WebSocket chat with reconnection/dedup, live location sharing, push notification delivery, collaborative editing, and live metrics dashboards.
+* **App Architecture at Scale**: multi-module architecture, Compose state management, deep-linked navigation, feature flagging, and dependency injection across module boundaries.
+* **Mobile-Specific Trade-offs**: low-end device reliability, battery-friendly location tracking, metered-network sync, crash-resilient checkout, and storage-pressure cleanup.
+* **Full Mock Walkthroughs**: Instagram's feed, a WhatsApp-style chat app, Dropbox-style file sync, Uber-style live tracking, and Spotify-style offline downloads — each synthesizing patterns from the earlier chapters end to end.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF on Gumroad (₹599)**](https://yogirana.gumroad.com/l/android-system-design-interview-bank) *(Includes print-ready PDF and lifetime updates)*
+* [📖 **Browse Free Sample Question**](./android-system-design-interview-bank/) *(Read the full Offline-First Note-Taking App question right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
