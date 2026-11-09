@@ -425,6 +425,10 @@ header {
     background-image: url('cover-android-system-design-interview-bank.png');
 }
 
+.cover-android-coding-round-question-bank {
+    background-image: url('cover-android-coding-round-question-bank.png');
+}
+
 .cover-badge {
     font-size: 8px;
     font-weight: 700;

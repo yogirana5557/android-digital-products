@@ -315,6 +315,25 @@ Access 30 in-depth questions across 6 chapters:
 
 ---
 
+### 19. Android Coding Round Question Bank (2026 Edition)
+
+Most "Android interview prep" is either generic trivia (lifecycle callbacks, Compose basics) or a generic LeetCode course with "Android" slapped on the title. This is a Kotlin/Android-specific coding-round bank: **27 real DSA problems**, each framed exactly the way an Android interviewer actually asks them, with full worked solutions.
+
+Access 27 problems across 7 chapters:
+* **Arrays & Strings**: analytics-stream dedup, cache-hit streak detection, paginated-result merging, and in-place carousel rotation.
+* **Hashing & Caching**: an LRU cache for bitmap thumbnails, crash-signature grouping, streaming first-unique-character tracking, and in-flight request coalescing.
+* **Trees, Tries & Search**: trie-based autocomplete, deep-link brace validation, fragment back-stack LCA, and nested settings-tree serialization.
+* **Concurrency & Coroutines**: a suspend-based download semaphore, search-bar debounce, exponential-backoff retry, and cross-repository lock-order deadlock detection.
+* **Sliding Window & Rate Limiting**: rolling-window rate limiting, longest-unique-substring tag parsing, minimum-window permission coverage, and sliding-window FPS maximums.
+* **Graphs & Scheduling**: Gradle module topological sort, deep-link shortest-path navigation, DI-graph cycle detection, and minimum-worker DAG scheduling.
+* **Heaps & Top-K**: top-k battery drains, k-closest cached locations, and rolling median frame time.
+
+#### 🚀 Instant Action:
+* [👉 **Get the PDF on Gumroad (₹499)**](https://yogirana.gumroad.com/l/android-coding-round-question-bank) *(Includes print-ready PDF and lifetime updates)*
+* [📖 **Browse Free Sample Question**](./android-coding-round-question-bank/) *(Read the full Debounce-a-Search-API-Call question right here on GitHub)*
+
+---
+
 
 ## ⚡ Upcoming Products (Coming Soon)
 
